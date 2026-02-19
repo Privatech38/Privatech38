@@ -7,3 +7,5 @@ My name is Žiga, my online tag is Privatech almost everywhere except a few exce
 - 🖥 I'm keen to learn more langauges, but the one I'm best at is Java.
 - ⛏ My biggest project is Tectonic Network which I work on together with my friend [KristyBisti](https://github.com/KristyBisti).
 - 🐋 I've had a decent amount of Docker experience, as well as little with Kubernetes.
+
+You can reach me at `contact@privatech.dev` or on Discord `privatech`.
